@@ -1,7 +1,7 @@
 import React from "react";
 import { useLocation, useParams } from "react-router-dom";
 
-function Article(props) {
+function Article() {
   const { id } = useParams();
   const location = useLocation();
   const state = location.state;
