@@ -4,4 +4,5 @@ export const routes = {
     contact: "/contact",
     contactEmail: "/contact/email",
     contactTelephone: "/contact/telephone",
+    ajouter: "/admin/ajouter"
   };

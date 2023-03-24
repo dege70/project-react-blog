@@ -9,6 +9,7 @@ function Navigation() {
         <NavigationItem to={routes.home}>Accueil</NavigationItem>
         <NavigationItem to={routes.articles}>Articles</NavigationItem>
         <NavigationItem to={routes.contact}>Contact</NavigationItem>
+        <NavigationItem to={routes.ajouter}>Ajouter</NavigationItem>
     </ul>
   )
 }
